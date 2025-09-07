@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Jihe Liu 刘吉鹤
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Jihe
+last_name: Liu
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,78 +23,60 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Senior Data Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Cohere Health
+    url: https://coherehealth.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:liujihe.2011@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/jihe-liu
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/jihe-liu-0b79a62a/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://scholar.google.com/citations?user=n5f2Z60AAAAJ&hl=en&oi=ao
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Healthcare AI
+  - Data science
+  - Computational Biology
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: MS Analytics
+    institution: Georgia Institute of Technology
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+  - area: PhD Chemistry
+    institution: University of Pittsburgh
     summary: |
-      GPA: 4.0/4.0
-
       Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+  - area: BS Bioinformatics
+    institution: Huazhong University of Science and Technology (华中科技大学)
     summary: |
-      GPA: 3.9/4.0
-
       Minored in Mathematics. President of AI Club.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Senior Data Scientist
+    company_name: Cohere Health
+    company_url: 'https://coherehealth.com/'
     company_logo: ''
-    date_start: 2020-01-01
+    date_start: 2023-02-01
     date_end: ''
     summary: |2-
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+  - position: Bioinformatics consultant and trainer
+    company_name: Harvard T.H. Chan School of Public Health
+    company_url: 'https://hsph.harvard.edu/department/biostatistics/'
     company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2019-08-01
+    date_end: 2023-01-31
     summary: |
       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
@@ -166,4 +148,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Jihe Liu is a Data Science Leader with Ph.D. training and 8 years of experience applying ML/AI to healthcare and pharma. Proven track record in leading data science teams, deploying production AI systems at scale, and translating real-world data into measurable outcomes. Expertise in claims and EHR, with hands-on leadership in NLP, LLMs, predictive modeling, and healthcare analytics. Experienced in cross-functional collaboration with clinical, product, and engineering teams to improve patient care, streamline utilization management, and accelerate drug discovery.
