@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jihe Liu 刘吉鹤
+title: Jihe Liu   刘吉鹤
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -12,9 +12,9 @@ last_name: Liu
 # Pronouns (optional)
 pronouns: he/him
 
-# Status emoji
+# Status emoji 
 status:
-  icon: 🚀
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -51,16 +51,10 @@ interests:
 education:
   - area: MS Analytics
     institution: Georgia Institute of Technology
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
   - area: PhD Chemistry
     institution: University of Pittsburgh
-    summary: |
-      Specialized in machine learning and robotics.
   - area: BS Bioinformatics
     institution: Huazhong University of Science and Technology (华中科技大学)
-    summary: |
-      Minored in Mathematics. President of AI Club.
 
 work:
   - position: Senior Data Scientist
@@ -97,55 +91,9 @@ skills:
         description: ''
         percent: 85
         icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
 
-languages:
-  - name: English
-    percent: 100
-  - name: Spanish
-    percent: 50
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
 ---
 
-Jihe Liu is a Data Science Leader with Ph.D. training and 8 years of experience applying ML/AI to healthcare and pharma. Proven track record in leading data science teams, deploying production AI systems at scale, and translating real-world data into measurable outcomes. Expertise in claims and EHR, with hands-on leadership in NLP, LLMs, predictive modeling, and healthcare analytics. Experienced in cross-functional collaboration with clinical, product, and engineering teams to improve patient care, streamline utilization management, and accelerate drug discovery.
+Welcome to my personal website!
+
+I am a Data Science Leader with Ph.D. training and 8 years of experience applying ML/AI to healthcare and pharma. Proven track record in leading data science teams, deploying production AI systems at scale, and translating real-world data into measurable outcomes. Expertise in claims and EHR, with hands-on leadership in NLP, LLMs, predictive modeling, and healthcare analytics. Experienced in cross-functional collaboration with clinical, product, and engineering teams to improve patient care, streamline utilization management, and accelerate drug discovery.
