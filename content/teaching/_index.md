@@ -2,6 +2,7 @@
 title: Teaching
 summary: My courses
 type: page
+show_title: false
 ---
 
 Here are some courses I’ve taught:
