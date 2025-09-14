@@ -4,8 +4,8 @@ headless: true
 active: true
 weight: 50
 
-title: "Contact"
-subtitle: "Get in touch"
+title: Contact
+subtitle: Get in touch
 
 # Contact form fields
 form:

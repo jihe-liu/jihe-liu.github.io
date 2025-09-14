@@ -1,6 +1,6 @@
 ---
-title: "Teaching"
-summary: "My courses"
+title: Teaching
+summary: My courses
 type: page
 ---
 
