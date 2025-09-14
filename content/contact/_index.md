@@ -5,6 +5,8 @@ type: page
 
 ## Get in Touch
 
+If you have any questions, collaborations, or opportunities, feel free to contact me using the form below.
+
 <form action="https://formspree.io/f/mjkedvbg" method="POST" class="contact-form">
   <div class="form-group mb-3">
     <label for="name">Your Name</label>
