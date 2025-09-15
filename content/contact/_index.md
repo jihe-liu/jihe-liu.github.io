@@ -1,7 +1,6 @@
 ---
-title: Contact
+title: ""
 type: page
-show_title: false
 ---
 
 ## Get in Touch
